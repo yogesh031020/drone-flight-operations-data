@@ -1,0 +1,6 @@
+Mission,Date,Duration_s,Max_Alt_m,Max_Speed_ms,Min_Battery,Total_Distance_m
+Obstacle_Avoidance_Test,2024-04-15,180,16.5,12.8,0.1,670.6
+Autonomous_Waypoint_Mission,2024-05-20,300,21.8,13.7,0.0,1517.8
+Payload_Delivery_Test,2024-06-10,240,11.7,14.2,0.0,794.8
+Indoor_Navigation_Test,2024-07-05,120,4.9,10.9,0.2,298.9
+Long_Range_Endurance,2024-08-12,600,31.8,16.1,0.0,3566.6
